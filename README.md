@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-0000000020f461fd99e03cfd1b9d78f4" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
+  <img src="https://i.imgur.com/abcdefg.png" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
 </p>
 
 ---
