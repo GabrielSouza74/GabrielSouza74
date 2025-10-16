@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/abcdefg.png" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
+  <img src="https://raw.githubusercontent.com/GabrielSouza74/main/banner.png" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
 </p>
+
 
 ---
 
