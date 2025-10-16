@@ -1,16 +1,25 @@
-## 👋 Olá! Eu sou o Gabriel Souza
+<h1 align="center">👋 Olá, eu sou o Gabriel Souza!</h1>
 
-💻 Desenvolvedor em formação e apaixonado por tecnologia  
-🎓 Estudante de Java pela Alura  
-🎨 Estudante de Design Digital pela Saga School  
+<p align="center">
+  💻 Desenvolvedor em formação, apaixonado por tecnologia, código limpo e boas práticas.<br>
+  🚀 Explorando o universo do desenvolvimento backend e frontend, com foco em criar soluções que unem lógica e design.
+</p>
 
-## 🚀 Tecnologias que uso
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSouza74&show_icons=true&theme=tokyonight)
+## 🧠 Sobre mim
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+- 🔭 Atualmente estudando **Java**, a linguagem deusa que me mostrou o poder da orientação a objetos  
+- 🌱 Aprendendo e aprimorando meus conhecimentos em **JavaScript, HTML, CSS** e **Python**  
+- 💡 Interesso-me por **back-end, front-end** e **automação**  
+- 🎯 Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que impactem pessoas positivamente  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+### 🌟 Linguagens que domino ou estou aprendendo
+![Java](https://img.shields.io/badge/Java%20☕-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.i)
