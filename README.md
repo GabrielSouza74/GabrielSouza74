@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielSouza74/main/github-header-banner.png" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
+  <img src="https://raw.githubusercontent.com/GabrielSouza74/github-header-banner.png" alt="Gabriel Souza — Desenvolvedor Java ⚡" width="100%">
 </p>
 
 
