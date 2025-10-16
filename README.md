@@ -27,8 +27,8 @@
 ### 🌟 Linguagens que domino ou estou aprendendo
 ![Java](https://img.shields.io/badge/Java%20☕-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20⚡-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5%20🔥-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3%20💎-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!--![HTML5](https://img.shields.io/badge/HTML5%20🔥-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3%20💎-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
 ![Python](https://img.shields.io/badge/Python%20🐍-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Outras ferramentas
